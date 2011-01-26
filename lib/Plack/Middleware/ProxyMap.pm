@@ -5,7 +5,7 @@ use warnings;
 use parent 'Plack::Middleware';
 use Plack::App::Proxy ();
 
-our $VERSION = '0.10';
+our $VERSION = '0.11';
 
 use Carp ();
 
@@ -126,6 +126,14 @@ page, there is no cross site prevention. When you get the content back,
 you can load it into a DOM element and use things like jQuery to easily
 find data, that you can subsequently display. You can also use REST APIs
 that offer JSON but not JSONP, directly from JavaScript.
+
+=head1 CREDIT
+
+This is just a simple way to use L<Plack::App::Proxy>. Thanks to Lee
+Aylward for that work.
+
+Thanks to Strategic Data for supporting the writing and release of
+this module.
 
 =head1 AUTHOR
 
