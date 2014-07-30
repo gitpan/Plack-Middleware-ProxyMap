@@ -27,4 +27,4 @@ resources:
   bugtracker: https://github.com/ingydotnet/plack-middleware-proxymap-pm/issues
   homepage: https://github.com/ingydotnet/plack-middleware-proxymap-pm
   repository: https://github.com/ingydotnet/plack-middleware-proxymap-pm.git
-version: '0.14'
+version: '0.15'
