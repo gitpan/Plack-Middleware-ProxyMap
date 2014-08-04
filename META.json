@@ -53,6 +53,6 @@
          "web" : "https://github.com/ingydotnet/plack-middleware-proxymap-pm"
       }
    },
-   "version" : "0.15"
+   "version" : "0.16"
 }
 
