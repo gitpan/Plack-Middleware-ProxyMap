@@ -9,5 +9,4 @@ Makefile.PL
 README
 lib/Plack/Middleware/ProxyMap.pm
 lib/Plack/Middleware/ProxyMap.pod
-t/000-compile-modules.t
 t/release-pod-syntax.t
